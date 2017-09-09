@@ -16,8 +16,19 @@ h1 {
   color: white;
 }
 
+.hero h2 {
+  font-size: 23px;
+}
+
 .btn-nav {
   color: white;
   font-family: helvetica;
   font-size: 18px;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
